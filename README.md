@@ -33,4 +33,4 @@ A simple, effective Arduino-based smoke and gas detection system. This project u
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/arduino-mq2-smoke-detector.git](https://github.com/YOUR_USERNAME/arduino-mq2-smoke-detector.git)
+   git clone [https://github.com/adnan-romeo/Gas-and-Smoke-detection-IoT-project.git](https://github.com/adnan-romeo/Gas-and-Smoke-detection-IoT-project.git)
