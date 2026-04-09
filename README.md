@@ -28,9 +28,3 @@ A simple, effective Arduino-based smoke and gas detection system. This project u
 | **Buzzer (-)** | `GND` | Ground connection. |
 | **LED (+ / Anode)** | `Pin 6` | Output for the visual alarm. |
 | **LED (- / Cathode)**| `GND` | Connect via a 220Ω resistor to Ground. |
-
-## Installation & Setup
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/adnan-romeo/Gas-and-Smoke-detection-IoT-project.git](https://github.com/adnan-romeo/Gas-and-Smoke-detection-IoT-project.git)
